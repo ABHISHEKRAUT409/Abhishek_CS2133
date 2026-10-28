@@ -1,0 +1,20 @@
+{
+  "name": "retail-billing-app",
+  "version": "1.0.0",
+  "description": "Retail Point of Sale (POS) and Inventory Management App for small shops",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "pos",
+    "retail",
+    "billing",
+    "barcode",
+    "inventory",
+    "gst",
+    "invoice"
+  ],
+  "author": "Antigravity",
+  "license": "MIT"
+}
